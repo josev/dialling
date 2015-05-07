@@ -22,5 +22,11 @@ module Dialling
 
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
+
+    # Application variables
+    config.calling_factor = 1.3
+    config.hours_factor = 1
+    config.monthly_calltime_average = 1
+    config.today_calltime_average = 1
   end
 end
