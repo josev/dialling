@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: 
+  agent: 
+  duration: 1
+
+two:
+  number: 
+  agent: 
+  duration: 1

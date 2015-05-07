@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  number: 
+  in_process: 
+  last_status: 
+  tryouts: 
+  last_taken: 2015-05-07 11:08:54
+
+two:
+  number: 
+  in_process: 
+  last_status: 
+  tryouts: 
+  last_taken: 2015-05-07 11:08:54
